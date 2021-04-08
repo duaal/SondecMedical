@@ -11,6 +11,7 @@ p{
 .card-body{
 	font-family: 'Tajawal', sans-serif;
 	text-align:center;
+	font-size: 25px;
 }
 video{
 	width:95%;
@@ -24,7 +25,7 @@ video{
 	text-align:center;
 	margin-bottom:5%;
 	margin-top: 5%;
-	font-size: 18px;
+	font-size: 30px;
 }
 
 .icon{
